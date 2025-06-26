@@ -54,7 +54,7 @@ search_input.send_keys("target_username")
 
 Run the script using Python:
 ```bash
-python instagram_scraper.py
+python main.py
 ```
 
 ## What the Script Does
