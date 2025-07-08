@@ -5,8 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-USERNAME = "teddy_james17"
-PASSWORD = "Vb@x2=tqDxbpt7U"
+USERNAME = "YOUR_USERNAME"
+PASSWORD = "YOUR_PASSWORD"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
